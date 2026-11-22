@@ -1,63 +1,7 @@
-<div align="center">
+# Ballet Arts Harmony
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=fdfcfb,e2d1c3&height=150&section=header&text=HARMONY%20BALLET&fontSize=50&animation=fadeIn&fontColor=4a4a4a" width="100%" style="border-radius: 18px;" />
+A static ballet-themed landing page with responsive sections, scroll effects and a carousel. This front-end exercise adapts a template credited to [Free-Template.co](https://free-template.co/) in the page markup.
 
-<br>
+Open [index.html](index.html) from a local static server to preview the site. Styles, scripts, fonts and images are stored alongside it.
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Style-Aesthetic-ffc0cb?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Framework-Bootstrap_4-563d7c?style=for-the-badge&logo=bootstrap">
-  <img src="https://img.shields.io/badge/UI-Interactive_Slider-blueviolet?style=for-the-badge">
-</p>
-
-</div>
-
----
-
-## 🩰 О проекте | Case Study
-
-**Harmony** — это проект, разработанный на заказ (Freelance Case) для образовательных целей. Задача заключалась в создании эстетичного, полностью адаптивного лендинга с использованием классического стека (Bootstrap + jQuery).
-
-### 🎯 Результат:
-- Проект успешно прошел защиту и аудит кода.
-- Реализована сложная верстка с использованием скошенных секций (Slant design).
-- Интегрирована система анимаций, срабатывающая при скролле (Scroll-triggered animations).
-
-
-
-### Основные разделы:
-- **Волшебство шага:** Описание актов балетной симфонии.
-- **Гармония танца:** Сравнение классического, современного и неоклассического стилей.
-- **Эстетика сцены:** Интерактивный путеводитель по мировым ценам на билеты (Global Pricing).
-- **Магия пространства:** Карусель с описанием сценического искусства.
-
----
-
-## 🛠 Технологический стек
-
-* **Bootstrap 4** — адаптивная сетка и компоненты.
-* **jQuery & Easing** — плавная навигация и логика скролла.
-* **Owl Carousel** — интерактивные слайдеры для секции "Магия".
-* **Animate.css & Waypoints** — запуск анимаций при прокрутке страницы.
-* **Icomoon** — кастомный набор векторных иконок.
-
----
-
-## ✨ Ключевые особенности
-
-1. **Slant Design:** Использование стильных скошенных границ (`ftco-slant`) между секциями для придания динамики.
-2. **Scroll Spy:** Навигационная панель автоматически подсвечивает активный раздел при прокрутке.
-3. **Responsive Engine:** Сайт идеально отображается как на 4K мониторах, так и на экранах смартфонов.
-4. **Visual Storytelling:** Продуманная структура подачи контента от "первого шага" до "новых горизонтов".
-
----
-
-## 📂 Структура проекта
-
-```text
-📁 Harmony
-├── 📁 css/              # Стили (Bootstrap, Animate, Owl, Custom)
-├── 📁 fonts/            # Иконочные шрифты (Icomoon, Open Iconic)
-├── 📁 images/           # Графический контент и фоны
-├── 📁 js/               # Скрипты (jQuery, Waypoints, Carousel)
-└── 📄 index.html        # Главная страница
+**Stack** · HTML, CSS, Bootstrap, jQuery and Owl Carousel.
